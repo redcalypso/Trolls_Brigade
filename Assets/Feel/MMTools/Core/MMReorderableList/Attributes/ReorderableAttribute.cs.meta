@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 64fc96ccf8acdf649af5159b7a73b62a
+timeCreated: 1434664597
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.4
+  assetPath: Assets/Feel/MMTools/Core/MMReorderableList/Attributes/ReorderableAttribute.cs
+  uploadId: 729165
